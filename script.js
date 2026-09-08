@@ -152,6 +152,6 @@ function display_hidden_fields()
   onQuoteButtonClickMobile(); //Mis en commentaire par Chris
 // Générer une carte au démarrage
   window.onload = function () {
-    generatenewCard(); //Mis en commentaire par Chris
+//    generatenewCard(); //Mis en commentaire par Chris pour permettre d'afficher celle qui est par défaut dans le code index.html
   };
 });
